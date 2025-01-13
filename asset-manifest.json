@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/PortfolioFalcon/static/css/main.7b2b21fa.css",
-    "main.js": "/PortfolioFalcon/static/js/main.6048918f.js",
+    "main.css": "/PortfolioFalcon/static/css/main.3fd4e78b.css",
+    "main.js": "/PortfolioFalcon/static/js/main.a3c36e17.js",
     "static/js/38.0f4e78f0.chunk.js": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js",
     "static/media/Video2.mp4": "/PortfolioFalcon/static/media/Video2.acaf81cfe34d4ec55e53.mp4",
-    "static/media/dcl.gif": "/PortfolioFalcon/static/media/dcl.883945a7f3b487d31730.gif",
-    "static/media/bdr.jpg": "/PortfolioFalcon/static/media/bdr.1d9ed371cb8da772d7d4.jpg",
+    "static/media/dcl.gif": "/PortfolioFalcon/static/media/dcl.ba3e92779987f8629dbf.gif",
     "static/media/mavic.jpg": "/PortfolioFalcon/static/media/mavic.65d2481d47876a626863.jpg",
-    "static/media/toledo.jpg": "/PortfolioFalcon/static/media/toledo.4b40c0bd8fed10a8759d.jpg",
+    "static/media/bdr.jpg": "/PortfolioFalcon/static/media/bdr.8f57afe7ebac155dc535.jpg",
     "static/media/dev-about.jpg": "/PortfolioFalcon/static/media/dev-about.e9c3fdc007c314a87b1d.jpg",
     "static/media/Ec2.png": "/PortfolioFalcon/static/media/Ec2.d5e96e282f09940cf193.png",
-    "static/media/mdp.jpg": "/PortfolioFalcon/static/media/mdp.449eef2d92fb9c808df7.jpg",
     "static/media/diatone.webp": "/PortfolioFalcon/static/media/diatone.f982f58b95ffd0619020.webp",
     "static/media/Joan Company - CV ES.pdf": "/PortfolioFalcon/static/media/Joan Company - CV ES.793c1f2fac979faf3f51.pdf",
     "static/media/Joan Company - CV EN.pdf": "/PortfolioFalcon/static/media/Joan Company - CV EN.69be311bd306d8e59d01.pdf",
@@ -21,10 +19,12 @@
     "static/media/neo.png": "/PortfolioFalcon/static/media/neo.5ae8c76b37becda954b7.png",
     "static/media/Falcon FPV.png": "/PortfolioFalcon/static/media/Falcon FPV.42c0732ade53405fba34.png",
     "static/media/banner_joancompany.png": "/PortfolioFalcon/static/media/banner_joancompany.4f64e242201ef67155c7.png",
+    "static/media/toledo.jpg": "/PortfolioFalcon/static/media/toledo.9d836e6b04b8a64711f7.jpg",
     "static/media/EconomyApp.webp": "/PortfolioFalcon/static/media/EconomyApp.860f218ab736fdac2c00.webp",
     "static/media/Montserrat-Medium.ttf": "/PortfolioFalcon/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
     "static/media/Montserrat-Light.ttf": "/PortfolioFalcon/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
     "static/media/Ec6.png": "/PortfolioFalcon/static/media/Ec6.f8ac83d0ab9817932ee2.png",
+    "static/media/mdp.jpg": "/PortfolioFalcon/static/media/mdp.f985d1fe6345fe4a4f78.jpg",
     "static/media/Roboto-Medium.ttf": "/PortfolioFalcon/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
     "static/media/Roboto-Light.ttf": "/PortfolioFalcon/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
     "static/media/banner_joancompany3.png": "/PortfolioFalcon/static/media/banner_joancompany3.b4966615341b8163f67d.png",
@@ -33,13 +33,18 @@
     "static/media/Ag1.png": "/PortfolioFalcon/static/media/Ag1.172c7ec74de79d7e92f8.png",
     "static/media/Aeroguardias.webp": "/PortfolioFalcon/static/media/Aeroguardias.afe2c23318e1a5786e77.webp",
     "static/media/react.png": "/PortfolioFalcon/static/media/react.1ce7b597e7ddb0fccde3.png",
+    "static/media/wedding.webp": "/PortfolioFalcon/static/media/wedding.7120dbdbd3de29eac618.webp",
+    "static/media/realstate.webp": "/PortfolioFalcon/static/media/realstate.df1e1375dc78e7ec3966.webp",
+    "static/media/inspec.webp": "/PortfolioFalcon/static/media/inspec.04cb3eadb67bf6645248.webp",
+    "static/media/aerial.webp": "/PortfolioFalcon/static/media/aerial.af4bfe899895393142ca.webp",
+    "static/media/tourism.webp": "/PortfolioFalcon/static/media/tourism.e8aa3d8bce8bce0e4d9a.webp",
     "index.html": "/PortfolioFalcon/index.html",
-    "main.7b2b21fa.css.map": "/PortfolioFalcon/static/css/main.7b2b21fa.css.map",
-    "main.6048918f.js.map": "/PortfolioFalcon/static/js/main.6048918f.js.map",
+    "main.3fd4e78b.css.map": "/PortfolioFalcon/static/css/main.3fd4e78b.css.map",
+    "main.a3c36e17.js.map": "/PortfolioFalcon/static/js/main.a3c36e17.js.map",
     "38.0f4e78f0.chunk.js.map": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b2b21fa.css",
-    "static/js/main.6048918f.js"
+    "static/css/main.3fd4e78b.css",
+    "static/js/main.a3c36e17.js"
   ]
 }

@@ -1,12 +1,17 @@
 {
   "files": {
-    "main.css": "/PortfolioFalcon/static/css/main.a15cf833.css",
-    "main.js": "/PortfolioFalcon/static/js/main.d8645f35.js",
+    "main.css": "/PortfolioFalcon/static/css/main.ff6a7c06.css",
+    "main.js": "/PortfolioFalcon/static/js/main.13ee6c5b.js",
     "static/js/38.0f4e78f0.chunk.js": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js",
     "static/media/Video2.mp4": "/PortfolioFalcon/static/media/Video2.acaf81cfe34d4ec55e53.mp4",
     "static/media/dcl.gif": "/PortfolioFalcon/static/media/dcl.ba3e92779987f8629dbf.gif",
     "static/media/mavic.jpg": "/PortfolioFalcon/static/media/mavic.65d2481d47876a626863.jpg",
+    "static/media/aerial.jpeg": "/PortfolioFalcon/static/media/aerial.3eb6af5e5c425468bfc4.jpeg",
+    "static/media/inspec.jpg": "/PortfolioFalcon/static/media/inspec.74aed22ce4942c63bedc.jpg",
     "static/media/bdr.jpg": "/PortfolioFalcon/static/media/bdr.8f57afe7ebac155dc535.jpg",
+    "static/media/fpv.jpg": "/PortfolioFalcon/static/media/fpv.7b6e9b03e78895831941.jpg",
+    "static/media/wedding.jpg": "/PortfolioFalcon/static/media/wedding.02877a9de03ff0fc90d6.jpg",
+    "static/media/realstate.jpg": "/PortfolioFalcon/static/media/realstate.625f7eb65dc393f79cab.jpg",
     "static/media/dev-about.jpg": "/PortfolioFalcon/static/media/dev-about.e9c3fdc007c314a87b1d.jpg",
     "static/media/Ec2.png": "/PortfolioFalcon/static/media/Ec2.d5e96e282f09940cf193.png",
     "static/media/diatone.webp": "/PortfolioFalcon/static/media/diatone.f982f58b95ffd0619020.webp",
@@ -33,18 +38,13 @@
     "static/media/Ag1.png": "/PortfolioFalcon/static/media/Ag1.172c7ec74de79d7e92f8.png",
     "static/media/Aeroguardias.webp": "/PortfolioFalcon/static/media/Aeroguardias.afe2c23318e1a5786e77.webp",
     "static/media/react.png": "/PortfolioFalcon/static/media/react.1ce7b597e7ddb0fccde3.png",
-    "static/media/wedding.webp": "/PortfolioFalcon/static/media/wedding.7120dbdbd3de29eac618.webp",
-    "static/media/realstate.webp": "/PortfolioFalcon/static/media/realstate.df1e1375dc78e7ec3966.webp",
-    "static/media/inspec.webp": "/PortfolioFalcon/static/media/inspec.04cb3eadb67bf6645248.webp",
-    "static/media/aerial.webp": "/PortfolioFalcon/static/media/aerial.af4bfe899895393142ca.webp",
-    "static/media/tourism.webp": "/PortfolioFalcon/static/media/tourism.e8aa3d8bce8bce0e4d9a.webp",
     "index.html": "/PortfolioFalcon/index.html",
-    "main.a15cf833.css.map": "/PortfolioFalcon/static/css/main.a15cf833.css.map",
-    "main.d8645f35.js.map": "/PortfolioFalcon/static/js/main.d8645f35.js.map",
+    "main.ff6a7c06.css.map": "/PortfolioFalcon/static/css/main.ff6a7c06.css.map",
+    "main.13ee6c5b.js.map": "/PortfolioFalcon/static/js/main.13ee6c5b.js.map",
     "38.0f4e78f0.chunk.js.map": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a15cf833.css",
-    "static/js/main.d8645f35.js"
+    "static/css/main.ff6a7c06.css",
+    "static/js/main.13ee6c5b.js"
   ]
 }

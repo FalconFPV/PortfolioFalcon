@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioFalcon/static/css/main.8046238e.css",
-    "main.js": "/PortfolioFalcon/static/js/main.32b37d64.js",
+    "main.css": "/PortfolioFalcon/static/css/main.822b60a2.css",
+    "main.js": "/PortfolioFalcon/static/js/main.41aa9672.js",
     "static/js/38.0f4e78f0.chunk.js": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js",
     "static/media/Video2.mp4": "/PortfolioFalcon/static/media/Video2.acaf81cfe34d4ec55e53.mp4",
     "static/media/dcl.gif": "/PortfolioFalcon/static/media/dcl.ba3e92779987f8629dbf.gif",
@@ -16,25 +16,23 @@
     "static/media/neo.png": "/PortfolioFalcon/static/media/neo.5ae8c76b37becda954b7.png",
     "static/media/Falcon FPV.png": "/PortfolioFalcon/static/media/Falcon FPV.42c0732ade53405fba34.png",
     "static/media/toledo.jpg": "/PortfolioFalcon/static/media/toledo.9d836e6b04b8a64711f7.jpg",
-    "static/media/Montserrat-Medium.ttf": "/PortfolioFalcon/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
-    "static/media/Montserrat-Light.ttf": "/PortfolioFalcon/static/media/Montserrat-Light.7179b7d2ac9b599db5f9.ttf",
     "static/media/mdp.jpg": "/PortfolioFalcon/static/media/mdp.f985d1fe6345fe4a4f78.jpg",
-    "static/media/Roboto-Medium.ttf": "/PortfolioFalcon/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
-    "static/media/Roboto-Light.ttf": "/PortfolioFalcon/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
     "static/media/banner_joancompany3.png": "/PortfolioFalcon/static/media/banner_joancompany3.b4966615341b8163f67d.png",
     "static/media/gobesp.png": "/PortfolioFalcon/static/media/gobesp.8e530a689ec36440d5c9.png",
     "static/media/EASA_Logo.png": "/PortfolioFalcon/static/media/EASA_Logo.85844173c5d85e9fe0d1.png",
+    "static/media/DMSans-Medium.ttf": "/PortfolioFalcon/static/media/DMSans-Medium.3b0ba81ccb599b9c3f61.ttf",
+    "static/media/DMSans-Light.ttf": "/PortfolioFalcon/static/media/DMSans-Light.01a44a42c1b22a037941.ttf",
     "static/media/AESA_Logo.png": "/PortfolioFalcon/static/media/AESA_Logo.7c7b10139650a255118d.png",
     "static/media/t2.webp": "/PortfolioFalcon/static/media/t2.f7ac629bb257c1db2cd3.webp",
     "static/media/t1.webp": "/PortfolioFalcon/static/media/t1.25a73b5707c83f3bac58.webp",
     "static/media/t3.webp": "/PortfolioFalcon/static/media/t3.8daaad843d0c9c9022b8.webp",
     "index.html": "/PortfolioFalcon/index.html",
-    "main.8046238e.css.map": "/PortfolioFalcon/static/css/main.8046238e.css.map",
-    "main.32b37d64.js.map": "/PortfolioFalcon/static/js/main.32b37d64.js.map",
+    "main.822b60a2.css.map": "/PortfolioFalcon/static/css/main.822b60a2.css.map",
+    "main.41aa9672.js.map": "/PortfolioFalcon/static/js/main.41aa9672.js.map",
     "38.0f4e78f0.chunk.js.map": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8046238e.css",
-    "static/js/main.32b37d64.js"
+    "static/css/main.822b60a2.css",
+    "static/js/main.41aa9672.js"
   ]
 }

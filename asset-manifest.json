@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/PortfolioFalcon/static/css/main.cc7ffbbc.css",
-    "main.js": "/PortfolioFalcon/static/js/main.e4523ba1.js",
+    "main.css": "/PortfolioFalcon/static/css/main.8536c5d3.css",
+    "main.js": "/PortfolioFalcon/static/js/main.68f0f24f.js",
     "static/js/38.0f4e78f0.chunk.js": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js",
     "static/media/Video2.mp4": "/PortfolioFalcon/static/media/Video2.acaf81cfe34d4ec55e53.mp4",
+    "static/media/event-bg.jpg": "/PortfolioFalcon/static/media/event-bg.deed98e3379a467ccc8a.jpg",
     "static/media/dcl.gif": "/PortfolioFalcon/static/media/dcl.ba3e92779987f8629dbf.gif",
+    "static/media/fpv-bg.jpg": "/PortfolioFalcon/static/media/fpv-bg.a5fe9f3dbe8470499aae.jpg",
+    "static/media/aerial-qbg.jpg": "/PortfolioFalcon/static/media/aerial-qbg.4f20928d78c18e793dfa.jpg",
     "static/media/mavic.jpg": "/PortfolioFalcon/static/media/mavic.65d2481d47876a626863.jpg",
     "static/media/aerial.jpeg": "/PortfolioFalcon/static/media/aerial.3eb6af5e5c425468bfc4.jpeg",
     "static/media/inspec.jpg": "/PortfolioFalcon/static/media/inspec.74aed22ce4942c63bedc.jpg",
+    "static/media/fpv-qbg.jpg": "/PortfolioFalcon/static/media/fpv-qbg.5afba2a20d042e2d9a9e.jpg",
+    "static/media/realstate-bg.jpg": "/PortfolioFalcon/static/media/realstate-bg.25fbfe883f1b2e3d248d.jpg",
     "static/media/bdr.jpg": "/PortfolioFalcon/static/media/bdr.8f57afe7ebac155dc535.jpg",
     "static/media/fpv.jpg": "/PortfolioFalcon/static/media/fpv.7b6e9b03e78895831941.jpg",
+    "static/media/event-qbg.jpg": "/PortfolioFalcon/static/media/event-qbg.61d831b9b92879e6e8cb.jpg",
     "static/media/wedding.jpg": "/PortfolioFalcon/static/media/wedding.02877a9de03ff0fc90d6.jpg",
+    "static/media/realstate-qbg.jpg": "/PortfolioFalcon/static/media/realstate-qbg.d683d984535cf29ed1ae.jpg",
+    "static/media/aerial-bg.jpg": "/PortfolioFalcon/static/media/aerial-bg.3d39eb692dd71102726e.jpg",
     "static/media/realstate.jpg": "/PortfolioFalcon/static/media/realstate.625f7eb65dc393f79cab.jpg",
     "static/media/diatone.webp": "/PortfolioFalcon/static/media/diatone.f982f58b95ffd0619020.webp",
     "static/media/neo.png": "/PortfolioFalcon/static/media/neo.5ae8c76b37becda954b7.png",
@@ -27,12 +35,12 @@
     "static/media/t1.webp": "/PortfolioFalcon/static/media/t1.25a73b5707c83f3bac58.webp",
     "static/media/t3.webp": "/PortfolioFalcon/static/media/t3.8daaad843d0c9c9022b8.webp",
     "index.html": "/PortfolioFalcon/index.html",
-    "main.cc7ffbbc.css.map": "/PortfolioFalcon/static/css/main.cc7ffbbc.css.map",
-    "main.e4523ba1.js.map": "/PortfolioFalcon/static/js/main.e4523ba1.js.map",
+    "main.8536c5d3.css.map": "/PortfolioFalcon/static/css/main.8536c5d3.css.map",
+    "main.68f0f24f.js.map": "/PortfolioFalcon/static/js/main.68f0f24f.js.map",
     "38.0f4e78f0.chunk.js.map": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc7ffbbc.css",
-    "static/js/main.e4523ba1.js"
+    "static/css/main.8536c5d3.css",
+    "static/js/main.68f0f24f.js"
   ]
 }

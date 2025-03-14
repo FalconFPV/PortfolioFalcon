@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioFalcon/static/css/main.150728f9.css",
-    "main.js": "/PortfolioFalcon/static/js/main.a81d9b7c.js",
+    "main.css": "/PortfolioFalcon/static/css/main.0204ff37.css",
+    "main.js": "/PortfolioFalcon/static/js/main.4dc76780.js",
     "static/js/38.0f4e78f0.chunk.js": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js",
     "static/media/Video2.mp4": "/PortfolioFalcon/static/media/Video2.acaf81cfe34d4ec55e53.mp4",
     "static/media/event-bg.jpg": "/PortfolioFalcon/static/media/event-bg.deed98e3379a467ccc8a.jpg",
@@ -18,7 +18,11 @@
     "static/media/wedding.jpg": "/PortfolioFalcon/static/media/wedding.02877a9de03ff0fc90d6.jpg",
     "static/media/realstate-qbg.jpg": "/PortfolioFalcon/static/media/realstate-qbg.d683d984535cf29ed1ae.jpg",
     "static/media/aerial-bg.jpg": "/PortfolioFalcon/static/media/aerial-bg.3d39eb692dd71102726e.jpg",
+    "static/media/BrutePower.png": "/PortfolioFalcon/static/media/BrutePower.8675864fed38f6992676.png",
     "static/media/realstate.jpg": "/PortfolioFalcon/static/media/realstate.625f7eb65dc393f79cab.jpg",
+    "static/media/Diatone.png": "/PortfolioFalcon/static/media/Diatone.72453208ec2ace1c5d63.png",
+    "static/media/iHobbies.png": "/PortfolioFalcon/static/media/iHobbies.2ec59d7cf8414cb1e006.png",
+    "static/media/Gemfan.png": "/PortfolioFalcon/static/media/Gemfan.b2d212a58c772d17ab87.png",
     "static/media/mavicinfo.jpg": "/PortfolioFalcon/static/media/mavicinfo.2444c3525bb8fabc1904.jpg",
     "static/media/diatoneh.jpg": "/PortfolioFalcon/static/media/diatoneh.d50d01fc9b9bc6200120.jpg",
     "static/media/diatone.jpg": "/PortfolioFalcon/static/media/diatone.1b03a362377eca6ddc6b.jpg",
@@ -29,10 +33,16 @@
     "static/media/mavic.jpg": "/PortfolioFalcon/static/media/mavic.2c9956011cb1c4fc90f7.jpg",
     "static/media/racing.jpg": "/PortfolioFalcon/static/media/racing.b275d8219335b39f8a52.jpg",
     "static/media/toledo.jpg": "/PortfolioFalcon/static/media/toledo.9d836e6b04b8a64711f7.jpg",
+    "static/media/Runcam.png": "/PortfolioFalcon/static/media/Runcam.78765eaa820bfc07adc5.png",
     "static/media/mdp.jpg": "/PortfolioFalcon/static/media/mdp.f985d1fe6345fe4a4f78.jpg",
     "static/media/banner_joancompany3.png": "/PortfolioFalcon/static/media/banner_joancompany3.b4966615341b8163f67d.png",
+    "static/media/meps.png": "/PortfolioFalcon/static/media/meps.684da838aa554c131f6b.png",
+    "static/media/RacingstuffLogo.png": "/PortfolioFalcon/static/media/RacingstuffLogo.20239237785b90fef11d.png",
+    "static/media/SkyDrone.png": "/PortfolioFalcon/static/media/SkyDrone.391ce3e9c41253d47706.png",
     "static/media/gobesp.png": "/PortfolioFalcon/static/media/gobesp.8e530a689ec36440d5c9.png",
+    "static/media/FolienrabeLogo.png": "/PortfolioFalcon/static/media/FolienrabeLogo.ead2e98bf714f8c7e93e.png",
     "static/media/EASA_Logo.png": "/PortfolioFalcon/static/media/EASA_Logo.85844173c5d85e9fe0d1.png",
+    "static/media/T-Motor.png": "/PortfolioFalcon/static/media/T-Motor.2c62a6c643319ecaa393.png",
     "static/media/DMSans-Medium.ttf": "/PortfolioFalcon/static/media/DMSans-Medium.3b0ba81ccb599b9c3f61.ttf",
     "static/media/DMSans-SemiBold.ttf": "/PortfolioFalcon/static/media/DMSans-SemiBold.0e4c71be1cb4176a4282.ttf",
     "static/media/AESA_Logo.png": "/PortfolioFalcon/static/media/AESA_Logo.7c7b10139650a255118d.png",
@@ -41,12 +51,12 @@
     "static/media/userdefault.jpg": "/PortfolioFalcon/static/media/userdefault.4aa827c3440249505e81.jpg",
     "static/media/t3.webp": "/PortfolioFalcon/static/media/t3.8daaad843d0c9c9022b8.webp",
     "index.html": "/PortfolioFalcon/index.html",
-    "main.150728f9.css.map": "/PortfolioFalcon/static/css/main.150728f9.css.map",
-    "main.a81d9b7c.js.map": "/PortfolioFalcon/static/js/main.a81d9b7c.js.map",
+    "main.0204ff37.css.map": "/PortfolioFalcon/static/css/main.0204ff37.css.map",
+    "main.4dc76780.js.map": "/PortfolioFalcon/static/js/main.4dc76780.js.map",
     "38.0f4e78f0.chunk.js.map": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.150728f9.css",
-    "static/js/main.a81d9b7c.js"
+    "static/css/main.0204ff37.css",
+    "static/js/main.4dc76780.js"
   ]
 }

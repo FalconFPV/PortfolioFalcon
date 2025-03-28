@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortfolioFalcon/static/css/main.7dd718c6.css",
-    "main.js": "/PortfolioFalcon/static/js/main.5784afb9.js",
+    "main.css": "/PortfolioFalcon/static/css/main.92dcbbf1.css",
+    "main.js": "/PortfolioFalcon/static/js/main.5b9a6336.js",
     "static/js/38.0f4e78f0.chunk.js": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js",
     "static/media/Video2.mp4": "/PortfolioFalcon/static/media/Video2.acaf81cfe34d4ec55e53.mp4",
     "static/media/dcl.gif": "/PortfolioFalcon/static/media/dcl.ba3e92779987f8629dbf.gif",
@@ -14,8 +14,8 @@
     "static/media/fpv-bg.webp": "/PortfolioFalcon/static/media/fpv-bg.bfb78ec3fade2ae0bc0f.webp",
     "static/media/iHobbies.png": "/PortfolioFalcon/static/media/iHobbies.2ec59d7cf8414cb1e006.png",
     "static/media/Gemfan.png": "/PortfolioFalcon/static/media/Gemfan.b2d212a58c772d17ab87.png",
-    "static/media/mavicinfo.jpg": "/PortfolioFalcon/static/media/mavicinfo.2444c3525bb8fabc1904.jpg",
     "static/media/realstate-bg.webp": "/PortfolioFalcon/static/media/realstate-bg.3171920ece77f2e6b808.webp",
+    "static/media/mavicinfo.jpg": "/PortfolioFalcon/static/media/mavicinfo.16e28c66f80340776016.jpg",
     "static/media/diatoneh.jpg": "/PortfolioFalcon/static/media/diatoneh.d50d01fc9b9bc6200120.jpg",
     "static/media/diatone.jpg": "/PortfolioFalcon/static/media/diatone.1b03a362377eca6ddc6b.jpg",
     "static/media/fpvh.jpg": "/PortfolioFalcon/static/media/fpvh.cf468669493e7a3711fa.jpg",
@@ -27,8 +27,8 @@
     "static/media/wedding.webp": "/PortfolioFalcon/static/media/wedding.34cec13e425cea794eea.webp",
     "static/media/realstate.webp": "/PortfolioFalcon/static/media/realstate.1360b41ca111129eb414.webp",
     "static/media/inspec.webp": "/PortfolioFalcon/static/media/inspec.abac2f0b924265e8c394.webp",
-    "static/media/mavic.jpg": "/PortfolioFalcon/static/media/mavic.2c9956011cb1c4fc90f7.jpg",
     "static/media/realstate-qbg.webp": "/PortfolioFalcon/static/media/realstate-qbg.d26f9c89d148718bf1c5.webp",
+    "static/media/mavic.jpg": "/PortfolioFalcon/static/media/mavic.d747a3afa4ffc1fcf58b.jpg",
     "static/media/fpv.webp": "/PortfolioFalcon/static/media/fpv.c959f7573602aa758651.webp",
     "static/media/racing.jpg": "/PortfolioFalcon/static/media/racing.b275d8219335b39f8a52.jpg",
     "static/media/toledo.jpg": "/PortfolioFalcon/static/media/toledo.9d836e6b04b8a64711f7.jpg",
@@ -52,12 +52,12 @@
     "static/media/userdefault.jpg": "/PortfolioFalcon/static/media/userdefault.4aa827c3440249505e81.jpg",
     "static/media/t3.webp": "/PortfolioFalcon/static/media/t3.8daaad843d0c9c9022b8.webp",
     "index.html": "/PortfolioFalcon/index.html",
-    "main.7dd718c6.css.map": "/PortfolioFalcon/static/css/main.7dd718c6.css.map",
-    "main.5784afb9.js.map": "/PortfolioFalcon/static/js/main.5784afb9.js.map",
+    "main.92dcbbf1.css.map": "/PortfolioFalcon/static/css/main.92dcbbf1.css.map",
+    "main.5b9a6336.js.map": "/PortfolioFalcon/static/js/main.5b9a6336.js.map",
     "38.0f4e78f0.chunk.js.map": "/PortfolioFalcon/static/js/38.0f4e78f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dd718c6.css",
-    "static/js/main.5784afb9.js"
+    "static/css/main.92dcbbf1.css",
+    "static/js/main.5b9a6336.js"
   ]
 }
